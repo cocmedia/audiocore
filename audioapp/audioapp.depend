@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1606728199 source:c:\work\workspace\audiocore\audioapp\main.cpp
+1606734176 source:c:\work\workspace\audiocore\audioapp\main.cpp
 	<iostream>
 	"audioeffect.hpp"
 	"eq.hpp"
 
-1606728001 c:\work\workspace\audiocore\audiocore\inc\audioeffect.hpp
+1606734094 c:\work\workspace\audiocore\audiocore\inc\audioeffect.hpp
 
-1606475362 c:\work\workspace\audiocore\audiocore\inc\eq.hpp
+1606734094 c:\work\workspace\audiocore\audiocore\inc\eq.hpp
 

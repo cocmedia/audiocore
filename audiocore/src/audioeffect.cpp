@@ -1,3 +1,4 @@
+#include "acbase.hpp"
 #include "audioeffect.hpp"
 
 namespace ac {

@@ -19,7 +19,7 @@ AudioEffect *createAudioEQ()
         pEffect = pEffectClass->CreateEffect();
 
     }
-    pEffect = &EQ;
+
     return pEffect;
 }
 }

@@ -41,6 +41,7 @@
 				</Linker>
 			</Target>
 		</Build>
+		<Unit filename="audiocore/inc/acbase.hpp" />
 		<Unit filename="audiocore/inc/audioeffect.hpp" />
 		<Unit filename="audiocore/inc/eq.hpp" />
 		<Unit filename="audiocore/src/audioeffect.cpp" />

@@ -5,20 +5,22 @@
 1584205420 c:\work\workspace\audiocore\main.h
 	<windows.h>
 
-1606728172 source:c:\work\workspace\audiocore\audiocore\src\eq.cpp
-	<iostream>
+1606734148 source:c:\work\workspace\audiocore\audiocore\src\eq.cpp
+	"acbase.hpp"
 	"audioeffect.hpp"
 	"eq.hpp"
 
-1606728001 c:\work\workspace\audiocore\audiocore\inc\audioeffect.hpp
+1606734094 c:\work\workspace\audiocore\audiocore\inc\audioeffect.hpp
 
-1606475362 c:\work\workspace\audiocore\audiocore\inc\eq.hpp
+1606734094 c:\work\workspace\audiocore\audiocore\inc\eq.hpp
 
-1606727860 source:c:\work\workspace\audiocore\audiocore\src\audioeffect.cpp
-	<iostream>
+1606734160 source:c:\work\workspace\audiocore\audiocore\src\audioeffect.cpp
+	"acbase.hpp"
 	"audioeffect.hpp"
 
 1606728155 source:c:\work\workspace\audiocore\audiocore\src\effectreg.cpp
 	"audioeffect.hpp"
 	"eq.hpp"
+
+1606734114 c:\work\workspace\audiocore\audiocore\inc\acbase.hpp
 

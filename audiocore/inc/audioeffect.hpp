@@ -1,4 +1,6 @@
 
+#ifndef AUDIOEFFECT_HPP
+#define AUDIOEFFECT_HPP
 
 namespace ac {
 
@@ -84,3 +86,5 @@ private:
 };
 
 }
+
+#endif // AUDIOEFFECT_HPP

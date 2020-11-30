@@ -1,4 +1,7 @@
 
+#ifndef EQ_HPP
+#define EQ_HPP
+
 namespace ac {
 class AudioEQ : public AudioEffect
 {
@@ -11,3 +14,5 @@ public:
 };
 
 }
+
+#endif // EQ_HPP
